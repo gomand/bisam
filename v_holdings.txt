@@ -2,6 +2,7 @@ create view v_holdings
 select
 	holding_id,
 	portfolio_id,
+	pam_id,
 	valuation_date,
 	modified_date,
 	creation_date
