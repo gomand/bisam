@@ -1,6 +1,6 @@
 create view v_holdings
 select
-	holding_id,
+	hld_id,
 	portfolio_id,
 	pam_id,
 	valuation_date,
