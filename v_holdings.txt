@@ -1,0 +1,6 @@
+create view v_holdings
+select
+	hoding_id,
+	valuation_date
+from
+	holdings
