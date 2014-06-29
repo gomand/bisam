@@ -3,6 +3,7 @@ select
 	holding_id,
 	portfolio_id,
 	valuation_date,
-	modified_date
+	modified_date,
+	creation_date
 from
 	holdings
